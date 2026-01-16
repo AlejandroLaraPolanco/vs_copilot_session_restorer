@@ -1,0 +1,8 @@
+backups/
+*.bak-*
+dist/
+build/
+__pycache__/
+*.pyc
+.venv/
+*.spec
