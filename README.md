@@ -124,4 +124,8 @@ El problema típico es que la UI tiene un índice/referencias para sesiones, per
 
 ## Licencia
 
-Pendiente (sugerencia: MIT).
+MIT — ver [LICENSE](LICENSE).
+
+## Releases
+
+Ver [RELEASE.md](RELEASE.md).
